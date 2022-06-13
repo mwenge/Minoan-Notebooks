@@ -1,0 +1,4 @@
+]PU2-RE-JA	 from ]PU2-RA2
+KU-PA3-RI-JA	 from KU-PA-RI
+PA-SA-RI-JA	from PA-SA-RI
+SU-KI-RI-TE-I-JA	from SU-KI-RI-TA

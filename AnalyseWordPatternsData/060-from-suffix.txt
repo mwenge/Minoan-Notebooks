@@ -1,0 +1,10 @@
+A-DI-KI-TE-TE-DU-PU2-RE	 "master of/from Dikte."
+JA-DI-KI-TE-TE-DU-PU2-RE	 "master of/from Dikte."
+A-DI-KI-TE-TE-*307-PU2-RE	 "master of/from Dikte."
+JA-DI-KI-TE-TE-*307-PU2-RE	 "master of/from Dikte."
+A-DI-KI-TE-TE	 "from Dikte."
+A-TU-RI-SI-TI	 (KN Zb 5), "from" TU-RI-SA
+DA-KU-SE-NE-TI	"from" DA-KU-SE-NE
+I-DU-TI	"from" a hypothetical *I-DU (Ida?)
+PA-DA-SU-TI	"from" a hypothetical *PA-DA-SU
+RI-RU-MA-TI	"from" RI-RU-MA

@@ -1,0 +1,13 @@
+A-DU	"assessment"?
+DA-DU-MA-TA	 "grain contributions"
+DA-I	"total"?
+E-*82	"assessment" or "paid"
+KA-I-RO	"balance"
+KA-PA	"summary account?"
+KI-RA	"balance"
+KI-RO	"owed"
+KU-PA	"transaction term?"
+KU-RA	"total"?
+KU-RO	"total"
+PO-TO-KU-RO	"grand total"
+U-MI-NA-SI	"owed"?

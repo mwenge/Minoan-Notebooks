@@ -1,0 +1,46 @@
+B	1/3 or 1/5
+D	1/5 or mina?
+F	1/8
+H	1/6?
+J	1/2
+K	1/16
+L	fraction
+L2	fraction
+L3	fraction
+L4	fraction
+L6	fraction
+W	full mina?
+X	1/2 mina?
+Y	1/4
+Ω	1/2?
+DD	double mina
+*118	talent
+B		fraction or weight
+BB		fraction or weight
+BL6		fraction or weight
+DDDD		fraction or weight
+EB		fraction or weight
+EE		fraction or weight
+EF		fraction or weight
+EJ		fraction or weight
+EL2		fraction or weight
+EL4		fraction or weight
+EL6		fraction or weight
+EYYY		fraction or weight
+FK		fraction or weight
+FL		fraction or weight
+HK		fraction or weight
+J		fraction or weight
+JB		fraction or weight
+JE	3/4
+JEB	fraction or weight
+JEL2	fraction or weight
+JF	fraction or weight
+JH	fraction or weight
+JJ	fraction or weight
+JK	fraction or weight
+JL2	fraction or weight
+KL2	fraction or weight
+LL	fraction or weight
+LL2	fraction or weight
+L2L4	fraction or weight

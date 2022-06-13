@@ -1,0 +1,29 @@
+DI	a single sign with people (cf. HT 85b); on HT 20 it occurs with the fraction J (Schoep 2002, 139); since two of the words on HT 20 end in -JU, if that were like Linear B, meaning "son of," perhaps the fraction would appropriate for a child's ration.
+KA	apparently a container (see HT 93) (Schoep 2002, 137, identified it as something to do with people or a group of people; cf. HT 11b.2).  The following discussion explores the possibility that VIR+KA are porters (see the individual notes to HT 28 and HT 88, and the note to HT 93 that identifies KA as containers).
+KI	usually occurs with people (HT 118, pigs).
+KI-RA	HT 49a.8
+KI-RO	(Raison & Pope in Duhoux 1978: 47-48); cf. HT 118; and mentioned on HT 49a.7&8
+KU	can either stand for KU-RO (e.g., HT 40.4) or designate a group of people (title, collective, occupation) (Schoep 2002, 136-7).
+PA	should be an abbreviation for a term modifying people; it may be in opposition to *188 -- HT 8 has, on the recto, PA, verso *188; PA fraction may refer to *618 (*302+KI). HT 10.3 has two separate entries, one for PA and another for *301 (Schoep 2002, 135, 137, 138), both of which have entries of units plus a fraction (J or E).
+PA3	appears on HT 9b, listing payments (Killen 1969 equates this with Linear B a-pu-do-si, received. HT 9a has TE, probably expected assessments or contributions) (Schoep 2002, 138-9). The same meaning can be deduced for PA3 on HT 34.6.
+RE	refers to people (HT 27, VIR in the heading; HT 32.4); it precedes the logogram *305 (Schoep 2002, 137)
+SA	(HT 114b.1) or SI (HT 30.1) = paid?
+TA	may designate a group of people (title, collective, occupation) (Schoep 2002, 136-7).
+TE	from
+TI	associated with agricultural products and people, usually in large quantities. So, assessments (for future incoming commodities) or inventories of commodities arrived (Schoep 2002, 100, 168 "more likely to represent a kind of contribution to the administration (e.g., taxes, levies, payments of loans, tributes etc.) rather than distributions"). This meaning seems supported at HT, with large quantities of wine (collections, rather than allocations) associated with TE; the total amount of TE GRA, however, is small, 1/10th the amount registered with SA-RA2. This is common, appearing on 21 HT texts in headings or sub-headings [HT 67, 96] and relating to agricultural commodities: AB 30 (FIC, occasionally), AB 120 (GRA), AB 122, AB 131 (VIN), A 302 (OLE). TE and SA-RA2 are mutually exclusive (Schoep 2002, 98). See further examples under The Suffix -TE/TI.
+TU	=? redistribution: HT 49a.8
+WI	=? "not included" vel sim; HT 102.4
+*86	(for the form , cf. Linear B PY Mn 111.1,7). On HT 140, 86 is probably a single sign, applying to the following sign-group associated with VIR, always with whole numbers (cf. HT 27a.2, 94a.1, b.5). It may designate a group of people (title, collective, occupation); cf. HT 11b.2, 45a.2 (Schoep 2002, 136-7).
+*188	is positioned like a transaction sign but it can also occur as a single sign. It only appears in initial or final position of two-sign sign groups, so it probably is not a syllabogram; it may be in opposition to PA (see HT 8 recto PA, verso *188). *188+KU may be a logogram on HT 16.3, 20.5 (Schoep 2002, 135-6).
+*301	may refer to people (HT 55a.2; HT 127b.6; HT Wa 1623-1848), "from" (HT 8a.3) or "to" (HT Wa 1022) [a place], but on several documents it is listed with a fraction, E (HT Wa 1026), J (HT Wa 1025), or both JE (HT 110b.5); it can also be doubled on HT Wa 1029 & 1030. The sign rarely appears elsewhere (KN Wb 50; TY Zb 4).
+*305	may designate a group of people (title, collective, occupation); cf. HT 11b.2, 45a.2 (Schoep 2002, 136-7).
+*307	is positioned like a transaction sign but it can also occur as a single sign. It is associated with people, also when doubled (*638). From its appearance on HT 27 and HT 89, it can refer to allocations (Schoep 2002, 142).
+*318	is associated with people
+*326	is associated with agricultural commodities, e.g., figs (HT 91, this is the only mixed commodities tablet this sign appears on)
+*346	is associated with people
+*406VAS	is associated with people
+*516,	I+[?] -- used with figs (HT 96, ZA 1); it may also designate a group of people (title, collective, occupation (Schoep 2002, 136-7). It might be related to prefix I-, meaning "to", implying an allocation (see section 13c, Prefixes, below); see, for example HT 96, where one section is headed TE and the next *516 (also see DA-I under Transaction Words).
+*523,	TI+A may designate a group of people (title, collective, occupation) (Schoep 2002, 136-7).
+*545,	KI+MU may designate a group of people (title, collective, occupation) (Schoep 2002, 136-7).
+*638	--- see *307
+*656	(*341+PI) is associated with people
